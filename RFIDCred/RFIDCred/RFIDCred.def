@@ -1,0 +1,5 @@
+LIBRARY RFIDCred.DLL
+
+EXPORTS
+    DllCanUnloadNow                                 PRIVATE
+    DllGetClassObject                               PRIVATE
