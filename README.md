@@ -15,3 +15,4 @@ Now you need to install Credential Provider DLL:
 - Run install.bat
 
 You can simply test this DLL by logging off or restarting PC.
+For more information, visit: http://www.codeandsec.com/Windows-RFID-Login-Credential-Provider
