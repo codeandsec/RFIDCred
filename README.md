@@ -3,6 +3,9 @@ RFID Windows Credential Provider
 
 This is an example windows Credential Provider module which uses RFID to automate login process.
 
+As first step, download and install OpenSSL for windows from: https://slproweb.com/products/Win32OpenSSL.html
+Then add "include" and "lib" directories of OpenSSL in Visual Studio settings.
+
 Steps for storing encrypted credentials:
 - Go to AuthGen folder
 - Compile it using VS2010+
